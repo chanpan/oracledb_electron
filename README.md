@@ -18,7 +18,7 @@
    - Download Oracle Instant Client for <a href='http://www.oracle.com/technetwork/topics/winx64soft-089540.html' target='_blank'>Instant</a>
         - instantclient-basic-windows.x64-12.2.0.1.0.zip
         - unzip instantclient-basic-windows.x64-12.2.0.1.0.zip  to C://instantclient
-        - Control Panel->System->Advanced System Settings->Advanced->Environment Variables->System variables->PATH C://instantclient
+        - Control Panel->System->Advanced System Settings->Advanced->Environment Variables->System variables->PATH <b>C://instantclient</b>
     <b>Open terminal or cmd mode admin.</b>
         - set OCI_LIB_DIR=C:\oracle\instantclient\sdk\lib\msvc 
         - set OCI_INC_DIR=C:\oracle\instantclient\sdk\include
