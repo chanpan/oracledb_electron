@@ -15,7 +15,7 @@
  <pre>
    - Download and install python and set path
    - Download and install nodejs and set path
-   - Download Oracle Instant Client for <a href='http://www.oracle.com/technetwork/topics/winx64soft-089540.html' target='_blank'>Instant</a>
+   - Download Oracle Instant Client for <a href='http://www.oracle.com/technetwork/topics/winx64soft-089540.html' target='_blank'>Instant</a> or <a href='https://drive.google.com/file/d/1ywHql3hjqdVQHT_FmKAfBhEmLktrzMlI/view?usp=sharing'>google drive</a>
         - instantclient-basic-windows.x64-12.2.0.1.0.zip
         - unzip instantclient-basic-windows.x64-12.2.0.1.0.zip  to C://instantclient
         - Control Panel->System->Advanced System Settings->Advanced->Environment Variables->System variables->PATH <b>C://instantclient</b>
